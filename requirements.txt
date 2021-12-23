@@ -1,7 +1,7 @@
 
 Django==4.0
 
-
+gunicorn
 Flask==2.0.2
 
 Flask-SQLAlchemy==2.5.1
